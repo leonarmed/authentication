@@ -1,0 +1,10 @@
+.container.signup {
+  max-width: 500px;
+  border: 1px solid grey;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.signup button {
+  width: 150px;
+}
